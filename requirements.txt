@@ -1,3 +1,4 @@
+spotify_account
 SpotifyDownloader
 pillow
 yt-dlp
