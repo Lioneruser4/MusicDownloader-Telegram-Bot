@@ -1,4 +1,4 @@
-SpotifyDownloader
+
 pillow
 yt-dlp
 python-dotenv
