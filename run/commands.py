@@ -1,4 +1,4 @@
-from plugins import SpotifyDownloader
+
 from utils import db, asyncio, BroadcastManager, time
 from utils import sanitize_query
 from .glob_variables import BotState
