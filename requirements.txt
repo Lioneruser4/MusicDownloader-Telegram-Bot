@@ -13,3 +13,4 @@ FastTelethonhelper
 lxml
 webdriver_manager
 selenium
+SpotifyDownloader
