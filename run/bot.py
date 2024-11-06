@@ -1,5 +1,5 @@
 from utils import BroadcastManager, db, asyncio, sanitize_query, TweetCapture
-from plugins import SpotifyDownloader, ShazamHelper, X, Insta, YoutubeDownloader
+from plugins import  ShazamHelper, X, Insta, YoutubeDownloader
 from run import events, Button, MessageMediaDocument, update_bot_version_user_season, is_user_in_channel, \
     handle_continue_in_membership_message
 from run import Buttons, BotMessageHandler, BotState, BotCommandHandler, respond_based_on_channel_membership
