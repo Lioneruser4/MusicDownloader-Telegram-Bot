@@ -1,4 +1,4 @@
-
+plugins.spotify
 pillow
 yt-dlp
 python-dotenv
