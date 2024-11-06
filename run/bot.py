@@ -508,8 +508,6 @@ class Bot:
                 await event.respond("Sorry, I can only process:\n-Text\n-Voice\n-Link")
         elif YoutubeDownloader.is_youtube_link(event.message.text):
             await Bot.process_youtube_link(event)
-        elif SpotifyDownloader.is_spotify_link(event.message.text):
-            await Bot.process_spotify_link(event)
         elif X.contains_x_or_twitter_link(event.message.text):
             await Bot.process_x_or_twitter_link(event)
         elif Insta.is_instagram_url(event.message.text):
